@@ -12,6 +12,7 @@ def insert(Hashtable, keyvalue, value) -> None:
 	for a in range(len(hashTable)):
 		print(a, end = " ")
 		for k in hashtable[a]:
+		for k in hashtable[a]:
 			print("-->", end = " ")
 			print(k, end = " ")
 		print()
